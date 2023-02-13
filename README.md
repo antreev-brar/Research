@@ -7,7 +7,7 @@ This repository is a collection of research notebooks and tutorials using the Qu
  - May 7, 2020 - [S&P500 Hope vs Fear CV2019](https://github.com/QuantConnect/Research/blob/master/Topical/20200507_hopevfear_research.ipynb)
  - June 4, 2020 - [Airline Bailout & Buybacks Research](https://github.com/QuantConnect/Research/blob/master/Topical/20200601_airlinebuybacks_research.ipynb)
 
-### Idea Streams PodCast
+### Idea Streams PodCast 
 
  - May 28, 2020 Episode 5 - [Tail Risk Hedging](https://www.youtube.com/watch?v=dA7VaQvpCGg&t=1s)
  - May 22, 2020 Episode 4 - [Nowcasting News Announcements of Vaccine Trials](https://www.youtube.com/watch?v=ZmatDMCvKTE&t=686s)
